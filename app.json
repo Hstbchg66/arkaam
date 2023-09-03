@@ -1,7 +1,7 @@
-{
-  "name": "آيّجَ ـيّبّـتُ - EGYPT",
-  "description":"أهلًا بك في الإصدار الاول من سورس ايجيبت",
-  "logo": "https://telegra.ph/file/dde13c45521934cce18c7.jpg",
+
+  "name":"Αивσвα",
+  "description":"أهلًا بك في الإصدار الاول من سورس آنـــــــٌبّـــــــوُبّـــــــهِ",
+  "logo": "https://telegra.ph/file/0eaec9cbb97f3fbf5e2d1.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -51,7 +51,7 @@
     },
     "TZ": {
       "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
